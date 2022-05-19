@@ -1,2 +1,2 @@
-# jogo-da-velha-DIO
-Criando seu próprio jogo da velha com HTML e Javascript
+# Jogo da Velha - DIO
+Criando seu próprio jogo da velha com HTML/CSS e Javascript
